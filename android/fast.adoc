@@ -1,0 +1,1 @@
+This is asciidoc release notes file, and it's in FAST/android
